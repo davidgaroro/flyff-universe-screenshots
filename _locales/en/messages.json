@@ -1,0 +1,15 @@
+{
+  "extDescription": {
+    "message": "Take screenshots in Flyff Universe and save them automatically."
+  },
+  "settings": { "message": "Settings" },
+  "reset": { "message": "Reset" },
+  "format": { "message": "Format:" },
+  "quality": { "message": "Quality:" },
+  "shortcut": { "message": "Shortcut:" },
+  "notset": { "message": "Not set" },
+  "edit": { "message": "Edit" },
+  "history": { "message": "Show in downloads history:" },
+  "project": { "message": "View the project on" },
+  "donate": { "message": "Donate" }
+}

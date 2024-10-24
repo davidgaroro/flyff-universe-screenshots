@@ -1,0 +1,13 @@
+{
+  "extDescription": { "message": "在 Flyff Universe 中截圖並自動儲存。" },
+  "settings": { "message": "設定" },
+  "reset": { "message": "重設" },
+  "format": { "message": "格式：" },
+  "quality": { "message": "品質：" },
+  "shortcut": { "message": "快捷鍵：" },
+  "notset": { "message": "未設定" },
+  "edit": { "message": "編輯" },
+  "history": { "message": "在下載紀錄中顯示：" },
+  "project": { "message": "檢視專案中" },
+  "donate": { "message": "捐贈" }
+}

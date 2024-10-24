@@ -1,0 +1,15 @@
+{
+  "extDescription": {
+    "message": "Flyff Universeでスクリーンショットを撮り、自動で保存しよう。"
+  },
+  "settings": { "message": "設定" },
+  "reset": { "message": "リセット" },
+  "format": { "message": "フォーマット：" },
+  "quality": { "message": "画質：" },
+  "shortcut": { "message": "キーボードショートカット：" },
+  "notset": { "message": "未設定" },
+  "edit": { "message": "編集" },
+  "history": { "message": "ダウンロード履歴に表示：" },
+  "project": { "message": "プロジェクトを見る" },
+  "donate": { "message": "寄付する" }
+}

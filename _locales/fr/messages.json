@@ -1,0 +1,15 @@
+{
+  "extDescription": {
+    "message": "Fais des captures d'écran dans Flyff Universe et enregistre-les automatiquement."
+  },
+  "settings": { "message": "Paramètres" },
+  "reset": { "message": "Réinitialiser" },
+  "format": { "message": "Format:" },
+  "quality": { "message": "Qualité:" },
+  "shortcut": { "message": "Raccourci clavier:" },
+  "notset": { "message": "Non défini" },
+  "edit": { "message": "Modifier" },
+  "history": { "message": "Afficher dans l'historique des téléchargements:" },
+  "project": { "message": "Voir le projet sur" },
+  "donate": { "message": "Faire un don" }
+}

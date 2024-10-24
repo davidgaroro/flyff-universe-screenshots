@@ -1,0 +1,15 @@
+{
+  "extDescription": {
+    "message": "Mach Screenshots in Flyff Universe und speichere sie automatisch."
+  },
+  "settings": { "message": "Einstellungen" },
+  "reset": { "message": "Zurücksetzen" },
+  "format": { "message": "Format:" },
+  "quality": { "message": "Qualität:" },
+  "shortcut": { "message": "Tastenkürzel:" },
+  "notset": { "message": "Nicht festgelegt" },
+  "edit": { "message": "Bearbeiten" },
+  "history": { "message": "Im Download-Verlauf anzeigen:" },
+  "project": { "message": "Projekt ansehen auf" },
+  "donate": { "message": "Spenden" }
+}

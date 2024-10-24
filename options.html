@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="options.css" />
+    <title>Flyff Universe - Screenshots</title>
+  </head>
+  <body>
+    <div>
+      <h1 data-i18n="settings">Settings</h1>
+      <button id="resetButton" data-i18n="reset">Reset</button>
+    </div>
+
+    <div>
+      <label for="formatSelect" data-i18n="format">Format:</label>
+      <select id="formatSelect">
+        <option value="jpeg">JPG</option>
+        <option value="png">PNG</option>
+      </select>
+    </div>
+
+    <div id="qualitySection">
+      <label for="qualityRange" data-i18n="quality">Quality:</label>
+      <div>
+        <input
+          type="range"
+          id="qualityRange"
+          min="0"
+          max="100"
+          step="5"
+          value="75"
+        />
+        <input
+          type="number"
+          id="qualityNumber"
+          min="0"
+          max="100"
+          step="5"
+          value="75"
+        />
+      </div>
+    </div>
+
+    <div>
+      <label data-i18n="shortcut">Shortcut:</label>
+      <div>
+        <kbd id="shortcutKbd"></kbd>
+        <button id="shortcutButton" data-i18n="edit">Edit</button>
+      </div>
+    </div>
+
+    <div>
+      <label for="historyCheckbox" data-i18n="history"
+        >Show in downloads history:</label
+      >
+      <input type="checkbox" id="historyCheckbox" />
+    </div>
+
+    <footer>
+      <div>
+        <span data-i18n="project">View the project on</span>
+        <a
+          href="https://github.com/davidgaroro/flyff-universe-screenshots"
+          target="_blank"
+          rel="noopener noreferrer"
+          >GitHub</a
+        >.
+      </div>
+      <a
+        href="https://www.paypal.com/donate?hosted_button_id=T7CVYXY994KHJ"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <img src="images/donate.gif" alt="Donate" data-i18n-donate />
+      </a>
+    </footer>
+    <script src="options.js"></script>
+  </body>
+</html>

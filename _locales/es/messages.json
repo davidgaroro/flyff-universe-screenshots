@@ -1,0 +1,15 @@
+{
+  "extDescription": {
+    "message": "Haz capturas de pantalla en Flyff Universe y guárdalas automáticamente."
+  },
+  "settings": { "message": "Configuración" },
+  "reset": { "message": "Restablecer" },
+  "format": { "message": "Formato:" },
+  "quality": { "message": "Calidad:" },
+  "shortcut": { "message": "Atajo de teclado:" },
+  "notset": { "message": "Sin configurar" },
+  "edit": { "message": "Editar" },
+  "history": { "message": "Mostrar en el historial de descargas:" },
+  "project": { "message": "Ver el proyecto en" },
+  "donate": { "message": "Donar" }
+}
